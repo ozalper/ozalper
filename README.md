@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ozalper
-- 👀 I’m interested in Electronic and Embedded Programming
+- 👀 I’m interested in Electronic Hardwares, ML and AI
 - 🌱 I’m currently learning C,Microcontrollers,Embedded Programming,Electronic
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alperoz058@gmail.com 
